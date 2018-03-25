@@ -1,2 +1,2 @@
 # Kubernetes course
-This repository contains the course files for my Kubernetes course on Udemy: https://www.udemy.com/learn-devops-the-complete-kubernetes-course/?couponCode=KUBERNETES_GIT
+THis the place where gabbar creates samples of yaml files to play around with kubernetes ojects. This is sooooo much fun :)
